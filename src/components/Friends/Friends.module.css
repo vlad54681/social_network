@@ -1,0 +1,29 @@
+.peoples {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+	width: 200px;
+	margin: 0 auto;
+}
+
+.friend__ava img {
+	height: 40px;
+	border-radius: 50px;
+}
+.title {
+	font-size: 24px;
+	margin-bottom: 10px;
+	letter-spacing: 5px;
+	font-weight: 900;
+	color: white;
+}
+.friend__ava {
+	margin: 0 auto;
+}
+.friend__item {
+	text-align: center;
+}
+.friends {
+	/* text-align: center; */
+	padding: 30px 0;
+}
